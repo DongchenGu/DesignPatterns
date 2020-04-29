@@ -46,8 +46,6 @@ public class DeepProtoType implements Serializable ,Cloneable{
 			} catch (Exception e2) {
 				System.out.println( e2.getMessage());
 			}
-		}
-		
-	}
-	
+		}		
+	}	
 }
