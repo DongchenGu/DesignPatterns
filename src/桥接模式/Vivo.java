@@ -19,6 +19,4 @@ public class Vivo implements Brand {
 		// TODO Auto-generated method stub
 		System.out.println("vivo手机打电话");
 	}
- 
-	
 }

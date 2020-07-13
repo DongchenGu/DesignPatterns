@@ -16,7 +16,5 @@ public class UpRightPhone extends Phone{
 	public void call() {
 		super.call();
 		System.out.println("直立样式手机");
-	}
-
-     
+	}   
 }

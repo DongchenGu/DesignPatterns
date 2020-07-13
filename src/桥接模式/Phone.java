@@ -16,6 +16,5 @@ public abstract class Phone {
 	}
 	 protected void call() {
 		this.brand.call();
-	}
-	 
+	}	 
 }

@@ -19,5 +19,4 @@ public class FoldedPhone extends Phone{
 		super.call();
 		System.out.println("折叠样式手机");
 	}
-
 }
